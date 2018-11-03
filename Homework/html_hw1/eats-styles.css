@@ -1,0 +1,15 @@
+ul{
+color: pink;
+}
+
+a{
+  color: blue;
+}
+
+ul a:hover{
+  color:red;
+}
+
+a:hover{
+  color:green;
+}

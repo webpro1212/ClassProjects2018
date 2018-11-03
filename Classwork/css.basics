@@ -1,0 +1,9 @@
+<!DOCTYPE>
+<html>
+<head>
+<title> CSS Practice</title>
+<style>
+h1{
+  height: 200px;
+  background-color: black;
+  color: white;
